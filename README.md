@@ -35,18 +35,18 @@ Install the dependencies using pip: pip install -r requirements.txt
    - Enter a value between 100 and 200 to adjust the speech rate. The default rate is 150.
 1. **Output**: The script will then convert the text from the specified file (book.txt) into speech using the chosen voice gender and speech rate. The narration will play automatically.
 
-Limitations
+## Limitations
 
 - The text-to-speech conversion quality may vary depending on the chosen voice and speech rate.
 - Longer texts or complex sentences may result in slower processing times or less natural-sounding speech.
 
-Future Enhancements
+## Future Enhancements
 
 - Implement support for additional languages and accents.
 - Integrate with online text-to-speech services for enhanced voice options and better quality.
 - Add support for pausing, resuming, and skipping sections during playback.
 
-Conclusion
+## Conclusion
 
 The Audio Book project provides a convenient way to convert text into speech, making it accessible for users who prefer listening over reading. By allowing customization of voice gender and speech rate, it offers a personalized experience for audiobook creation. With potential future enhancements, it can further improve its functionality and usability.
 
