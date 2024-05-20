@@ -14,7 +14,7 @@ To clone the Wordle Game project from GitHub, follow these steps:
 
 1. Open your terminal (Command Prompt, PowerShell, or any other terminal emulator).
 1. Navigate to the directory where you want to clone the repository.
-1. Run the following command: git clone audio\_book
+1. Run the following command: git clone https://github.com/ROHANDAS2003/audio_book
 1. Navigate into the cloned repository directory: cd audio\_book
 ## Dependencies
 1. **pyttsx3**: This project utilizes the pyttsx3 library for text-to-speech conversion. You can install it via pip, Python's package manager. 
